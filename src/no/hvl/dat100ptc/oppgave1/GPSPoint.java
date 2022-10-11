@@ -9,8 +9,6 @@ public class GPSPoint {
 	public GPSPoint(int time, double latitude, double longitude, double elevation) {
 
 		// TODO - konstruktør
-
-		// Fjern linjene med throw new etterhvert som metodene implementeres
 		throw new UnsupportedOperationException(TODO.construtor("GPSPoint"));
 
 	}
